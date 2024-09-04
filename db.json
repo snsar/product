@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Noise-cancelling wireless headphones",
+    "price": "249.99",
+    "stock": 75,
+    "is_active": 1,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "Fitness tracker with heart rate monitor",
+    "price": "199.99",
+    "stock": 60,
+    "is_active": 1,
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "description": "10-inch tablet with retina display",
+    "price": "499.99",
+    "stock": 35,
+    "is_active": 1,
+    "created_at": null,
+    "updated_at": "2024-09-04T02:42:15.000000Z"
+  }
+]
